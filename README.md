@@ -57,14 +57,15 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
+</br>
 
 ## 🔗 Links
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/harikrishnan-k-a93a6a293)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/hari-krishnank)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](hkharikrishnan23@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:hkharikrishnan23@gmail.com)
 
 
 
+</br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-krishnank&show_icons=true&locale=en&layout=compact" alt="hari-krishnank" /></p>
