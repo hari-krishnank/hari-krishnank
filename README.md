@@ -71,3 +71,7 @@
 
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-krishnank&show_icons=true&locale=en&layout=compact" alt="hari-krishnank" /></p>
+</br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-krishnank&show_icons=true&locale=en" alt="hari-krishnank" /></p>
+</br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-krishnank&" alt="hari-krishnank" /></p>
