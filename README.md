@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular-17 and NgRx**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hari-krishnank?tab=repositories](https://github.com/hari-krishnank?tab=repositories)
+- 👨‍💻 All of my projects are available at  [My Repositories](https://github.com/hari-krishnank?tab=repositories)
 
 - 💬 Ask me about **Angular,NgRx,NodeJs,ExpresJs,JavaScript**
 
