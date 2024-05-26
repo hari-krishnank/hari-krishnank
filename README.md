@@ -4,8 +4,6 @@
 
 
 
-</br>
-</br>
 - 🌱 I’m currently learning **Angular-17 and NgRx**
 
 - 👨‍💻 All of my projects are available at  [My Repositories](https://github.com/hari-krishnank?tab=repositories)
