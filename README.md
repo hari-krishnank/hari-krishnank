@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Harikrishnan</h1>
 <h3 align="center">MEAN Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hari-krishnank&label=Profile%20views&color=0e75b6&style=flat" alt="hari-krishnank" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hari-krishnank" alt="hari-krishnank" /></a> </p>
 
+
+</br>
+</br>
 - 🌱 I’m currently learning **Angular-17 and NgRx**
 
 - 👨‍💻 All of my projects are available at  [My Repositories](https://github.com/hari-krishnank?tab=repositories)
