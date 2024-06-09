@@ -67,10 +67,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_harikrishnan____)
 
 
+</br>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=hari-krishnank&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hari-krishnank&show_icons=true&locale=en&layout=compact" alt="hari-krishnank" /></p>
-</br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hari-krishnank&show_icons=true&locale=en" alt="hari-krishnank" /></p>
-</br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hari-krishnank&" alt="hari-krishnank" /></p>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=hari-krishnank&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hari-krishnank&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
